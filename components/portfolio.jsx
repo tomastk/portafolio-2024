@@ -117,7 +117,7 @@ export function PortfolioComponent() {
     },
     { title: "Shelty", 
       description: "Shelty será una plataforma web de adopción de animales. En la plataforma se podrá contactar a animales de refugios, publicar animales y buscar mediante inteligencia artifical. En desarrollo.",
-      image: "https://tomastk.github.io/portafolio/assets/img/shelty.PNG",
+      image: "https://i.imgur.com/xis2tku.png",
       technologies: ["Nextjs", "ReactJS", "SpringBoot", "MySql"],
       demo: "#",
       github: "https://github.com/tomastk/shelty"     
