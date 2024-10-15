@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react"
 import Image from "next/image"
 import Link from "next/link"
+import projects from "@/app/projects.json";
 import { Github, Linkedin, Mail, ExternalLink, Menu, X } from "lucide-react"
 
 const GlassesSVG = ({
@@ -98,31 +99,6 @@ export function PortfolioComponent() {
     return () => clearTimeout(timer);
   }, [])
 
-  const projects = [
-    {
-      title: "Solar Wiki",
-      description: "Solar Wiki es un proyecto que muestra información del sistema solar extrayendo información del sitio web de la NASA. Cuenta con información interesante de los planetas.",
-      image: "https://i.imgur.com/1MT4AgR.png",
-      technologies: ["HTML", "CSS", "JavaScript", "ReactJS", "Framer Motion"],
-      github: "https://github.com/tomastk/solar-wiki",
-      demo: "https://solar-wiki.vercel.app/",
-    },
-    {
-      title: "Seguridad Vial",
-      description: "Este es un proyecto que recopila información sobre las diferentes leyes de tránsito de Argentina. Sirve para cualquier persona que se quiera sacar una licencia de conducir y quiere rendir el exámen teórico.",
-      image: "https://i.imgur.com/vNNmEzB.png",
-      technologies: ["HTMLL", "CSS", "JavaScript"],
-      github: "https://github.com/tomastk/seguridad-vial-cau",
-      demo: "https://tomastk.github.io/seguridad-vial-cau/index.html",
-    },
-    { title: "Shelty", 
-      description: "Shelty será una plataforma web de adopción de animales. En la plataforma se podrá contactar a animales de refugios, publicar animales y buscar mediante inteligencia artifical. En desarrollo.",
-      image: "https://i.imgur.com/xis2tku.png",
-      technologies: ["Nextjs", "ReactJS", "SpringBoot", "MySql"],
-      demo: "#",
-      github: "https://github.com/tomastk/shelty"     
-    }
-  ]
 
   const skills = [
     "HTML", "CSS", "JavaScript", "React", "Node.js", "Java", "SpringBoot", "MongoDB", "Git", "Github", "SQL", "NextJs"

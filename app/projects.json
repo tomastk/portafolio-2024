@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Solar Wiki",
+        "description": "Solar Wiki es un proyecto que muestra información del sistema solar extrayendo información del sitio web de la NASA. Cuenta con información interesante de los planetas.",
+        "image": "https://i.imgur.com/1MT4AgR.png",
+        "technologies": ["HTML", "CSS", "JavaScript", "ReactJS", "Framer Motion"],
+        "github": "https://github.com/tomastk/solar-wiki",
+        "demo": "https://solar-wiki.vercel.app/"
+    },
+    {
+        "title": "Seguridad Vial",
+        "description": "Este es un proyecto que recopila información sobre las diferentes leyes de tránsito de Argentina. Sirve para cualquier persona que se quiera sacar una licencia de conducir y quiere rendir el exámen teórico.",
+        "image": "https://i.imgur.com/vNNmEzB.png",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "github": "https://github.com/tomastk/seguridad-vial-cau",
+        "demo": "https://tomastk.github.io/seguridad-vial-cau/index.html"
+    },
+    {
+        "title": "Shelty", 
+        "description": "Shelty es una plataforma fullstack de exposición de animales para ser adoptados. Dentro de esta plataforma, cualquier usuario puede publicar un animal en adopción y esperar ser contactado por interesados. Tiene la funcionalidad de búsqueda por filtros (categorias, tamaño, especie) y por descripción, además de un mapa de todos los animales de la zona.",
+        "image": "https://i.imgur.com/5up3kTo.png",
+        "technologies": ["HTML", "CSS", "Tailwind CSS", "ReactJS", "NodeJS", "PostgreSQL"],
+        "demo": "https://shelty.vercel.app",
+        "github": "https://github.com/tomastk/shelty-frontend"
+    },
+    {
+        "title": "Miyamizu", 
+        "description": "Este es el código fuente de la tienda online de Miyamizu, un emprendimiento de maquillaje de Posadas. Tiene la funcionalidad de consumir una API para obtener los productos, poder mostrar todos los productos y carrito de compras con pedido por Whatsapp.",
+        "image": "https://i.imgur.com/pq9Kr0l.png",
+        "technologies": ["HTML", "CSS", "Next JS"],
+        "demo": "https://miyamizu.vercel.app",
+        "github": "#"
+    }
+]
