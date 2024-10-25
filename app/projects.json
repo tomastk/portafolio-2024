@@ -34,7 +34,7 @@
     {
         "title": "Geofencing.js",
         "description": "Una mini librería para JavaScript para controlar eventos relacionados a entradas a cercas/fences, usando la GeolocalizationAPI",
-        "image": "https://imgur.com/b0Moj5n",
+        "image": "https://i.imgur.com/b0Moj5n.png",
         "technologies": ["JavaScript"],
         "demo": "https://www.npmjs.com/package/geofencing-js",
         "github":"https://github.com/tomastk/geofencing"
