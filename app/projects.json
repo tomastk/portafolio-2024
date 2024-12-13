@@ -1,42 +1,40 @@
 [
     {
-        "title": "Solar Wiki",
-        "description": "Solar Wiki es un proyecto que muestra información del sistema solar extrayendo información del sitio web de la NASA. Cuenta con información interesante de los planetas.",
-        "image": "https://i.imgur.com/1MT4AgR.png",
-        "technologies": ["HTML", "CSS", "JavaScript", "ReactJS", "Framer Motion"],
-        "github": "https://github.com/tomastk/solar-wiki",
-        "demo": "https://solar-wiki.vercel.app/"
-    },
-    {
-        "title": "Seguridad Vial",
-        "description": "Este es un proyecto que recopila información sobre las diferentes leyes de tránsito de Argentina. Sirve para cualquier persona que se quiera sacar una licencia de conducir y quiere rendir el exámen teórico.",
-        "image": "https://i.imgur.com/vNNmEzB.png",
-        "technologies": ["HTML", "CSS", "JavaScript"],
-        "github": "https://github.com/tomastk/seguridad-vial-cau",
-        "demo": "https://tomastk.github.io/seguridad-vial-cau/index.html"
-    },
-    {
         "title": "Shelty", 
-        "description": "Shelty es una plataforma fullstack de exposición de animales para ser adoptados. Dentro de esta plataforma, cualquier usuario puede publicar un animal en adopción y esperar ser contactado por interesados. Tiene la funcionalidad de búsqueda por filtros (categorias, tamaño, especie) y por descripción, además de un mapa de todos los animales de la zona.",
+        "description": "Shelty es una plataforma para la exposición de animales en adopción. Los usuarios pueden publicar animales y buscar otros por filtros como categoría, tamaño y especie. Además, incluye un mapa que muestra los animales disponibles en su área.",
         "image": "https://i.imgur.com/5up3kTo.png",
         "technologies": ["HTML", "CSS", "Tailwind CSS", "ReactJS", "NodeJS", "PostgreSQL"],
         "demo": "https://shelty.vercel.app",
         "github": "https://github.com/tomastk/shelty-frontend"
     },
     {
-        "title": "Miyamizu", 
-        "description": "Este es el código fuente de la tienda online de Miyamizu, un emprendimiento de maquillaje de Posadas. Tiene la funcionalidad de consumir una API para obtener los productos, poder mostrar todos los productos y carrito de compras con pedido por Whatsapp.",
-        "image": "https://i.imgur.com/pq9Kr0l.png",
-        "technologies": ["HTML", "CSS", "Next JS"],
-        "demo": "https://miyamizu.vercel.app",
-        "github": "#"
-    },
-    {
         "title": "Geofencing.js",
-        "description": "Una mini librería para JavaScript para controlar eventos relacionados a entradas a cercas/fences, usando la GeolocalizationAPI",
-        "image": "https://i.imgur.com/b0Moj5n.png",
+        "description": "Geofencing.js es una librería ligera para JavaScript que permite gestionar eventos relacionados con entradas a áreas geográficas definidas, utilizando la Geolocalization API del navegador.",
+        "image": "https://imgur.com/b0Moj5n",
         "technologies": ["JavaScript"],
         "demo": "https://www.npmjs.com/package/geofencing-js",
-        "github":"https://github.com/tomastk/geofencing"
+        "github": "https://github.com/tomastk/geofencing"
+    },
+    {
+        "title": "Solar Wiki",
+        "description": "Solar Wiki es un proyecto que proporciona información sobre el sistema solar, extrayendo datos directamente del sitio web de la NASA. Con un enfoque educativo y visual, permite explorar detalles sobre los planetas y otros cuerpos celestes de manera interactiva.",
+        "image": "https://i.imgur.com/1MT4AgR.png",
+        "technologies": ["HTML", "CSS", "JavaScript", "ReactJS", "Framer Motion"],
+        "github": "https://github.com/tomastk/solar-wiki",
+        "demo": "https://solar-wiki.vercel.app/"
+    },
+    {
+        "title": "PosGym",
+        "description": "PosGym es una página web para un gimnasio local en Posadas. Permite a los usuarios consultar las clases disponibles, registrarse con su número de teléfono y reservar clases directamente desde el sitio.",
+        "image": "https://i.imgur.com/LS7FL14.png",
+        "technologies": ["Next JS", "ReactJS", "Tailwind CSS"]
+    },
+    {
+        "title": "Seguridad Vial",
+        "description": "Seguridad Vial es una herramienta online que recopila información sobre las leyes de tránsito de Argentina. Es útil para quienes deseen prepararse para el examen teórico de conducción, con un diseño sencillo que facilita la consulta de las normativas.",
+        "image": "https://i.imgur.com/vNNmEzB.png",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "github": "https://github.com/tomastk/seguridad-vial-cau",
+        "demo": "https://tomastk.github.io/seguridad-vial-cau/index.html"
     }
 ]
